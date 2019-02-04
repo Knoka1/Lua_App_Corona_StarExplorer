@@ -1,0 +1,2 @@
+1-Make boss based on score not time
+2-Make asteroids come faster over time
